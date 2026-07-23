@@ -1,3 +1,4 @@
+
 | Candidate Prefix | NANP Rule Check | Carrier Type | Status |
 
 | 311 | Invalid (Reserved N11) | N/A | Eliminated |
