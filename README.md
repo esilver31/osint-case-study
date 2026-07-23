@@ -1,4 +1,4 @@
-# osint-case-study
+# OSINT Case Study
 This case study demonstrates the application of Open Source Intelligence (OSINT), data validation constraints, and contextual deduction to reconstruct an obfuscated telephone number from a public dataset (social media/meme). By cross-referencing systemic telecom regulations against structural behavioral patterns, the complete dataset was successfully recovered without brute-force enumeration.
 
 
