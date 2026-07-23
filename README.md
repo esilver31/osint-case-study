@@ -39,3 +39,6 @@ This exercise proves the efficacy of using architectural constraints and data an
 
 4. Evidence Portfolio
 
+<img width="590" height="1278" alt="IMG_5571" src="https://github.com/user-attachments/assets/069a4de1-b036-492a-a9e1-619ee8f22604" />
+<img width="590" height="1278" alt="IMG_5572" src="https://github.com/user-attachments/assets/04da36bb-b1da-429f-92fb-791ded2c2f41" />
+<img width="1179" height="678" alt="IMG_5575" src="https://github.com/user-attachments/assets/ac72489d-74d8-411a-af00-eaf0bd35dcd2" />
